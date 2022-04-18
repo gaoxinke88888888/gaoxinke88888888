@@ -5,10 +5,14 @@
 <a href="https://www.java.com/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="60" height="60" />
 </a>
+
 <a href="https://kotlinlang.org/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="kotlin" width="60" height="60" />
 </a>
- <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a> 
+
+ <a href="https://vuejs.org/" title="Vue.js">
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="60px" height="60px">
+</a> 
     
  <a href="https://maven.apache.org/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/maven.svg" alt="maven" width="60" height="60" />
