@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaoxinke88888888
-- 👀 I’m interested in java , vue
-- 🌱 I’m currently learning vue3 + typescript , kotlin , pythone , golang 
+- 👀 I’m interested in java , JavaScript
+- 🌱 I’m currently learning vue3 + TypeScript , kotlin , pythone , golang 
 <!---
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
